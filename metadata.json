@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Dashboard",
+  "description": "Comprehensive faculty attendance management system with real-time percentage tracking, defaulter identification (<75%), student database, reports, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
